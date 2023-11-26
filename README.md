@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Ali Nilforooshan.
-- 👀 I’m interested in Quantitative Genetics and Computational Biology.
+- 🔍 I’m interested in Quantitative Genetics and Computational Biology.
 - 📫 You can reach me at <mohammad.nilforooshan@lic.co.nz>
 - 🏠 My homepage: https://nilforooshan.github.io
 
